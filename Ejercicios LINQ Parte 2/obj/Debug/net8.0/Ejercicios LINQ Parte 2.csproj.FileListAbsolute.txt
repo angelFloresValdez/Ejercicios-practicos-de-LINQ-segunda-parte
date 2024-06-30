@@ -1,0 +1,14 @@
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\bin\Debug\net8.0\Ejercicios LINQ Parte 2.exe
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\bin\Debug\net8.0\Ejercicios LINQ Parte 2.deps.json
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\bin\Debug\net8.0\Ejercicios LINQ Parte 2.runtimeconfig.json
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\bin\Debug\net8.0\Ejercicios LINQ Parte 2.dll
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\bin\Debug\net8.0\Ejercicios LINQ Parte 2.pdb
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.AssemblyInfoInputs.cache
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.AssemblyInfo.cs
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.dll
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\refint\Ejercicios LINQ Parte 2.dll
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.pdb
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\Ejercicios LINQ Parte 2.genruntimeconfig.cache
+C:\Users\Angel Flores\Desktop\Ejercicios LINQ parte 2\Ejercicios LINQ Parte 2\obj\Debug\net8.0\ref\Ejercicios LINQ Parte 2.dll
